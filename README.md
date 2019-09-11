@@ -13,6 +13,8 @@ cd stateless-workstation-config
 ./deploy.sh --ask-become-pass
 ```
 
+To get the newest version of ansible on Ubuntu: https://www.cyberciti.biz/faq/how-to-install-and-configure-latest-version-of-ansible-on-ubuntu-linux/
+
 Usage on Ubuntu for Windows
 ---------------------------
 ```
