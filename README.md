@@ -4,7 +4,7 @@ This is how I configure a fresh Ubuntu installation for serving me as a workstat
 
 Usage
 -----
-After installing a fresh Ubuntu 18.04.1:
+After installing a fresh Ubuntu 20.04.3:
 
 ```
 sudo apt install git ansible
